@@ -25,15 +25,15 @@ with `pip install notebook` and run from the command line with
 `jupyter notebook` as explained [here](https://jupyter.org/install).
 
 ## Outline
- * Install and import
- * PointData and Variables
- * Daily Data and return dataframes
- * Searching for points
-    * buffer
-    * point metadata
-    * point iterator
- * Data from multiple points
- * Saving data
- * Plotting data
- * Extending classes
- * mesowest
+ * Intro, install and structure
+ * Pulling timeseries data
+ * Finding relevant stations
+ * Extra, saving data and extending classes
+ 
+## In jupyter hub
+If you are working from an existing jupyter hub, you can
+clone this package in using
+
+```git clone git@github.com:M3Works/metloom.git```
+
+And interact with the tutorials from there
