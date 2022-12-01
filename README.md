@@ -34,6 +34,6 @@ with `pip install notebook` and run from the command line with
 If you are working from an existing jupyter hub, you can
 clone this package in using
 
-```git clone git@github.com:M3Works/metloom.git```
+```git clone git@github.com:M3Works/metloom-tutorial.git```
 
 And interact with the tutorials from there
